@@ -29,14 +29,14 @@ focus:       biodiversity · sustainable pest management · data analysis
 study_taxa:  [ aphids, bark beetles, soil microarthropods ]
 contributes: [ national emergency plans, EU-funded projects, national projects ]
 interests:   [ forestry, agriculture, environmental policy, science & humanities ]
-mindset:     "good data, careful taxonomy, and decisions that help ecosystems"
+mindset:     "data analysis, taxonomy, and decisions that help ecosystems"
 ```
 
 🔬 I study the taxonomy and biodiversity of small but ecologically pivotal organisms — and translate field and lab data into evidence that supports **conservation, plant health, and sustainable management**.
 
 🌱 My work bridges **basic taxonomic research** and **applied science**, feeding into emergency response plans and collaborative European and national research programmes.
 
-🤝 Always open to collaboration on biodiversity monitoring, pest-risk analysis, and reproducible ecological data workflows.
+🤝 Open to collaboration on biodiversity monitoring, pest-risk analysis, and reproducible ecological data workflows.
 
 ---
 
@@ -65,6 +65,16 @@ mindset:     "good data, careful taxonomy, and decisions that help ecosystems"
 | 🌳 **Plant Health & Pest Management** | Pest-risk analysis, sustainable & integrated control, emergency planning |
 | 📊 **Data Analysis** | Reproducible pipelines, statistics, structured datasets, visualization |
 | 🗺️ **Spatial Ecology** | Distribution mapping and geospatial analysis with QGIS |
+
+---
+
+## 🗣️ Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Italian-Native-2d6a4f?style=for-the-badge" alt="Italian"/>
+  <img src="https://img.shields.io/badge/English-Fluent-2d6a4f?style=for-the-badge" alt="English"/>
+  <img src="https://img.shields.io/badge/Spanish-Working%20proficiency-2d6a4f?style=for-the-badge" alt="Spanish"/>
+</p>
 
 ---
 
