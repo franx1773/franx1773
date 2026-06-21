@@ -166,6 +166,20 @@ Short description of the project's goals, outputs (datasets, keys, reports) and 
 
 - **Surname F.** (2022). *Technical report for a national emergency plan.* Institutional series / agency.
 - **Surname F.** (2021). *Popular-science or non–peer-reviewed article.* Magazine / outlet.
+- 	EFSA (European Food Safety Authority)**, Tramontini S, Gilioli G, Mastin A, Binazzi F, Toccafondi P, Pennacchio F, Baldassarre F, Rzpecka D, Scala M, Sánchez B, Nougadère A and -Vos S, 2025. Anthonomus eugenii – Pest Report to support the ranking of EU candidate priority pests. EFSA supporting publication 2025:EN-9443. 40 pp. https://doi.org/10.2903/sp.efsa.2025.EN-9443
+- **EFSA (European Food Safety Authority)**, Tramontini S, Baldassarre F, Binazzi F, Gilioli G, Mastin A, Rzpecka D, Scala M, Sánchez B, Nougadère A and Vos S, 2025. Conotrachelus nenuphar – Pest Report to support the ranking of EU candidate priority pests. EFSA supporting publication 2025:EN-9442. 39 pp. https://doi.org/10.2903/sp.efsa.2025.EN- 9442
+-	**EFSA (European Food Safety Authority)**, Tramontini S, Gilioli G, Antoniou A, Rzepecka D, Pennacchio F, Binazzi F, Krusteva R, Scala M, Sánchez B, Nougadère A and Sybren Vos, 2025. Agrilus anxius – Pest Report to support the ranking of EU candidate priority pests. EFSA supporting publication 2025:EN-9433. 30 pp. https://doi.org/10.2903/sp.efsa.2025.EN-9433
+- **EFSA (European Food Safety Authority)**, Tramontini S, Gilioli G, Pennacchio F, Binazzi F, Scala M, Baldassarre F, Sánchez B, Nougadère A and Vos S, 2025. Arrhenodes minutus – Pest Report to support the ranking of EU candidate priority pests. EFSAsupporting publication 2025:EN-9275. 28 pp. doi:10.2903/sp.efsa.2025.EN-9275 
+- **EFSA (European Food Safety Authority)**, Tramontini S, Gilioli G, Pennacchio F, Binazzi F, Sánchez B, Baldassarre F, Scala M, Nougadère A and Vos S, 2025. Polygraphus proximus – Pest Report to support the ranking of EU candidate priority pests. EFSA supporting publication 2025:EN-9274. 70 pp. doi:10.2903/sp.efsa.2025.EN-9274
+-	**Binazzi F., 2023a.** – Scheda tecnica per indagini sull’organismo nocivo : Aphis citricidus (Kirkaldy, 1907).  Servizio Fitosanitario Nazionale - DOCUMENTI TECNICI UFFICIALI - Documento n. 46. 
+27-07-2023.
+https://www.protezionedellepiante.it/wp-content/uploads/2023/07/dtu-n.-46-toxoci_signed.pdf
+- **Binazzi F.,** 2023b. – Scheda tecnica per indagini sull’organismo nocivo : Conotrachelus nenuphar. Servizio Fitosanitario Nazionale - DOCUMENTI TECNICI UFFICIALI –
+ Documento n. 54. 15-11-23.
+https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_signed.pdf
+- **Binazzi, F., Peverieri, G. S., & Roversi, P. F.** 2016 / Energia, ambiente e innovazione, 22-25. DOI 10.12910/EAI2016-038. Pre-release risk assessment for classical biological control of harmful alien species.
+- **Peverieri, G. S., Marianelli, L., Strangi, A., Binazzi, F., Paoli, F., & Roversi, P. F.** 2015 / Atti Accademia Nazionale Italiana di Entomologia, Anno LXIII, 189-194. Controllo biologico della cimice americana delle conifere, Leptoglossus occidentalis Heidemann (Heteroptera Coreidae).
+
 
 <p align="left">
   <a href="https://orcid.org/"><img src="https://img.shields.io/badge/Full%20list%20on%20ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
