@@ -179,6 +179,16 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_
 - **Peverieri, G. S., Marianelli, L., Strangi, A., Binazzi, F., Paoli, F., & Roversi, P. F.** 2015 / Atti Accademia Nazionale Italiana di Entomologia, Anno LXIII, 189-194. Controllo biologico della cimice americana delle conifere, *Leptoglossus occidentalis* Heidemann (Heteroptera Coreidae).
 
 
+**Conference proceedings**
+  - **Mazza, G., Marraccini, D., Binazzi, F., Mori, E., Marianelli, L., Sabbatini Peverieri, G., Roversi, P. F., & Gargani, E.** XXVI Congresso Nazionale Italiano di Entomologia, 7-11/06/2021, p. 132. Ricania speculum (Walker) in Italia: Un aggiornamento sulla distribuzione, piante ospiti, monitoraggio e nemici naturali.
+  - **Mazza, G., Marraccini, D., Binazzi, F., Mori, E., Marianelli, L., Sabbatini Peverieri, G., Roversi, P. F., & Gargani, E.** XXVI Congresso Nazionale Italiano di Entomologia, 7-11/06/2021, p. 132. Ricania speculum (Walker) in Italia: Un aggiornamento sulla distribuzione, piante ospiti, monitoraggio e nemici naturali
+	- **Binazzi F., Roversi P.F.** 6th-9th November 2012 / Abstr. 3rd Annual Meeting of the European PhD Network in “Insect Science”, Ivrea (Torino), Italy, p. 44. Life table of Ooencyrctus pityocampae reared on Nezara viridula eggs
+	- **Carletti B., Binazzi F., Puleri F., Surico F., Allegretti O., Ferrari S., Roversi P.F.**, 2011 / Atti XIII Congr.Naz.It. Ent.,Genova, 13-16 giugno 2011, p. 122. Modalità di trattamento di legni di conifere secondo lo standard FAO ISPM-15 e sopravvivenza di nematodi del Gen. Bursaphelenchus
+	- **Pennacchio F., Binazzi F., Colombo M., Jucker C., Caronni F., Roversi P.F.**, 2011 / Atti XIII Congr.Naz.It.Ent.,Genova, 13-16 giugno 2011, p. 73. Phloeotribus liminaris, scolitide esotico infeudato alle Prunoidee
+	- **Pennacchio F., De Silva J., Francardi V., Binazzi F., Roversi P.F.**, 2011 – Atti XIII Congr.Naz.It. Ent.,Genova, 13-16 giugno 2011, p. 111. Infestazioni di Ips typographus in peccete dell’Appennino settentrionale e strategie di controllo
+
+
+
 <p align="left">
   <a href="https://orcid.org/"><img src="https://img.shields.io/badge/Full%20list%20on%20ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Full%20list%20on%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
