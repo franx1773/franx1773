@@ -175,7 +175,7 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/07/dtu-n.-46-toxoci
 - **Binazzi F.,** 2023b. – Scheda tecnica per indagini sull’organismo nocivo : *Conotrachelus nenuphar*. Servizio Fitosanitario Nazionale - DOCUMENTI TECNICI UFFICIALI –
  Documento n. 54. 15-11-23.
 https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_signed.pdf
-- **Binazzi, F., Peverieri, G. S., & Roversi, P. F.** 2016 / Energia, ambiente e innovazione, 22-25. DOI 10.12910/EAI2016-038. Pre-release risk assessment for classical biological control of harmful alien species.
+- **Binazzi, F., Peverieri, G. S., & Roversi, P. F.** 2016 / Energia, ambiente e innovazione, 22-25. https://doi.org/10.12910/EAI2016-038. Pre-release risk assessment for classical biological control of harmful alien species.
 - **Peverieri, G. S., Marianelli, L., Strangi, A., Binazzi, F., Paoli, F., & Roversi, P. F.** 2015 / Atti Accademia Nazionale Italiana di Entomologia, Anno LXIII, 189-194. Controllo biologico della cimice americana delle conifere, *Leptoglossus occidentalis* Heidemann (Heteroptera Coreidae).
 
 
