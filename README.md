@@ -177,8 +177,10 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/07/dtu-n.-46-toxoci
 https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_signed.pdf
 - **Binazzi, F., Peverieri, G. S., & Roversi, P. F.** 2016 / Energia, ambiente e innovazione, 22-25. Pre-release risk assessment for classical biological control of harmful alien species. https://doi.org/10.12910/EAI2016-038.
 - **Peverieri, G. S., Marianelli, L., Strangi, A., Binazzi, F., Paoli, F., & Roversi, P. F.** 2015 / Atti Accademia Nazionale Italiana di Entomologia, Anno LXIII, 189-194. Controllo biologico della cimice americana delle conifere, *Leptoglossus occidentalis* Heidemann (Heteroptera Coreidae).
-- 
+
+  
 **Conference proceedings**
+
   - **Mazza, G., Marraccini, D., Binazzi, F., Mori, E., Marianelli, L., Sabbatini Peverieri, G., Roversi, P. F., & Gargani, E.** XXVI Congresso Nazionale Italiano di Entomologia, 7-11/06/2021, p. 132. Ricania speculum (Walker) in Italia: Un aggiornamento sulla distribuzione, piante ospiti, monitoraggio e nemici naturali.
   - **Mazza, G., Marraccini, D., Binazzi, F., Mori, E., Marianelli, L., Sabbatini Peverieri, G., Roversi, P. F., & Gargani, E.** XXVI Congresso Nazionale Italiano di Entomologia, 7-11/06/2021, p. 132. Ricania speculum (Walker) in Italia: Un aggiornamento sulla distribuzione, piante ospiti, monitoraggio e nemici naturali
   - **Binazzi F., Roversi P.F.** 6th-9th November 2012 / Abstr. 3rd Annual Meeting of the European PhD Network in “Insect Science”, Ivrea (Torino), Italy, p. 44. Life table of Ooencyrctus pityocampae reared on Nezara viridula eggs
