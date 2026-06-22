@@ -158,7 +158,6 @@ Short description of the project's goals, outputs (datasets, keys, reports) and 
 -->
 
 **Peer-reviewed articles**
-
 - **Surname F., Coauthor A.** (2024). *Title of the peer-reviewed paper.* Journal Name, 12(3), 45–58. [link](https://doi.org/XXXXX)
 - **Surname F.** (2023). *Another peer-reviewed study on soil fauna.* Journal Name, 10(1), 1–14. [link](https://doi.org/XXXXX)
 - Fabiani, A., Mocali, S., Binazzi, F., Del Duca, S., Vitali, F., & Landi, S. (2026). Effect of Different Set-Aside Management Systems on Soil Biological Fertility and Biodiversity of Bacterial and Microarthropod Communities. Sustainability, 18(5), 2575.
