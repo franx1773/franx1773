@@ -161,7 +161,6 @@ Short description of the project's goals, outputs (datasets, keys, reports) and 
 
 - **Surname F., Coauthor A.** (2024). *Title of the peer-reviewed paper.* Journal Name, 12(3), 45–58. [link](https://doi.org/XXXXX)
 - **Surname F.** (2023). *Another peer-reviewed study on soil fauna.* Journal Name, 10(1), 1–14. [link](https://doi.org/XXXXX)
-  
 - Fabiani, A., Mocali, S., Binazzi, F., Del Duca, S., Vitali, F., & Landi, S. (2026). Effect of Different Set-Aside Management Systems on Soil Biological Fertility and Biodiversity of Bacterial and Microarthropod Communities. Sustainability, 18(5), 2575.
 - Landi S., Binazzi F., Papini R., D’Errico G., Del Duca S., Fabiani A. & Mocali S., 2025. – Effect of Long-Term Set-Aside Management System on Soil Health by Evaluation of Biodiversity Indicators. Diversity, 17 (4) : 240 https://doi.org/0.3390/d17040240.
 - Toccafondi P., Pennacchio F., Luongo L., Binazzi F., Garaguso I., Mercuri I. & Vitale S., 2025. – Phloeosinus armatus Reitter (Coleoptera Curculionidae Scolytinae) and its associated fungal community colonizing Cupressus sempervirens L. in Tuscany (Italy). Redia, 108 : 71-81 https://doi.org/10.19263/REDIA-108.25.08.
@@ -190,7 +189,8 @@ Short description of the project's goals, outputs (datasets, keys, reports) and 
 -	Scheurer, S., Binazzi, A., Roversi, P. F., & Binazzi, F. 2020/Redia, 103, 69–74. http://dx.doi.org/10.19263/REDIA-103.20.12. First record in Europe of Cinara shinjii Inouye (Aphididae Lachninae) on the Japanese white pine Pinus parviflora Siebold & Zucc.
 -	Landi, S., d’Errico, G., Binazzi, F., Di Salvatore, U., Gardin, L., Marchi, M., Mazza, G., Roversi, P. F., Simoncini, S., Torrini, G., & Cantiani, P. 2020/ Forests, 11(11), 1212. https://doi.org/10.3390/f11111212. The short-term impact of different silvicultural thinnings on soil nematode and microarthropod biodiversity in artificial black pine stands.
 -	Giovannini, L., Mazza, G., Binazzi, F., Simoni, S., Marianelli, L., Guerrieri, E., Roversi, P. F., & Sabbatini Peverieri, G. 2020/ Bulletin of Insectology, 73(2), 313–319. Biological parameters of the egg parasitoid Ooencyrtus gonoceri.
-29.	Ayache, S., Strangi, A., Chakali, G., Dahmani, L., Chellali, M., Pennacchio, F., Roversi, P. F., & Binazzi, F. 2020/ Bulletin of Insectology, 73(2), 275–283. A new species, Cinara tellenica Binazzi F. et Strangi (Aphididae Lachninae) associated with Cedrus atlantica in the Tell Atlas of Algeria.
+-	Ayache, S., Strangi, A., Chakali, G., Dahmani, L., Chellali, M., Pennacchio, F., Roversi, P. F., & Binazzi, F. 2020/ Bulletin of Insectology, 73(2), 275–283. A new species, Cinara tellenica Binazzi F. et Strangi (Aphididae Lachninae) associated with Cedrus atlantica in the Tell Atlas of Algeria.
+29.
 -	d’Errico, G., Fanelli, E., Troccoli, A., Binazzi, F., Landi, S., Roversi, P., & De Luca, F. 2020/Forest Pathology, e12620. https://doi.org/DOI: 10.1111/efp.12620. First record of Ektaphelenchoides pini associated with Ips sexdentatus on Pinus nigra laricio in Italy.
 -	El Khoury Y., Binazzi F., Nemer N., Noujeim E., Tarasco E., Roversi P.F., Pennacchio F., 2019 / Redia, 102: 121-128. http://dx.doi.org/10.19263/REDIA-102.19.18. Bark beetles (Coleoptera Curculionidae Scolytinae) associated with Pinus pinea in Lebanon: new records with remarks on their ecology, distribution and potential threat for forest stands.
 -	Binazzi, F., & Roversi, P. F. 2018 / Bulletin of Insectology, 71(2), 309-312. Description of the alata vivipara of Cinara cedri brevifoliae Binazzi A. from Cyprus (Aphididae Lachninae).
