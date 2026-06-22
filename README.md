@@ -161,6 +161,7 @@ Short description of the project's goals, outputs (datasets, keys, reports) and 
 
 - **Surname F., Coauthor A.** (2024). *Title of the peer-reviewed paper.* Journal Name, 12(3), 45–58. [link](https://doi.org/XXXXX)
 - **Surname F.** (2023). *Another peer-reviewed study on soil fauna.* Journal Name, 10(1), 1–14. [link](https://doi.org/XXXXX)
+  
 - Fabiani, A., Mocali, S., Binazzi, F., Del Duca, S., Vitali, F., & Landi, S. (2026). Effect of Different Set-Aside Management Systems on Soil Biological Fertility and Biodiversity of Bacterial and Microarthropod Communities. Sustainability, 18(5), 2575.
 - Landi S., Binazzi F., Papini R., D’Errico G., Del Duca S., Fabiani A. & Mocali S., 2025. – Effect of Long-Term Set-Aside Management System on Soil Health by Evaluation of Biodiversity Indicators. Diversity, 17 (4) : 240 https://doi.org/0.3390/d17040240.
 - Toccafondi P., Pennacchio F., Luongo L., Binazzi F., Garaguso I., Mercuri I. & Vitale S., 2025. – Phloeosinus armatus Reitter (Coleoptera Curculionidae Scolytinae) and its associated fungal community colonizing Cupressus sempervirens L. in Tuscany (Italy). Redia, 108 : 71-81 https://doi.org/10.19263/REDIA-108.25.08.
