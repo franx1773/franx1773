@@ -157,6 +157,7 @@ Short description of the project's goals, outputs (datasets, keys, reports) and 
   Without link:  - **Authors** (Year). *Title.* Report series / Magazine / Outlet.
 -->
 
+
 **Peer-reviewed articles**
 
 - **Fabiani, A., Mocali, S., Binazzi, F., Del Duca, S., Vitali, F., & Landi, S. (2026)**. Effect of Different Set-Aside Management Systems on Soil Biological Fertility and Biodiversity of Bacterial and Microarthropod Communities. Sustainability, 18(5), 2575. 
