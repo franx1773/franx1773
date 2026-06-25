@@ -223,7 +223,7 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/07/dtu-n.-46-toxoci
  Documento n. 54. 15-11-23.
 https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_signed.pdf
 - **Binazzi, F., Peverieri, G. S., & Roversi, P. F.** 2016 / Energia, ambiente e innovazione, 22-25. Pre-release risk assessment for classical biological control of harmful alien species. https://doi.org/10.12910/EAI2016-038.
-- **Peverieri, G. S., Marianelli, L., Strangi, A., Binazzi, F., Paoli, F., & Roversi, P. F.** 2015 / Atti Accademia Nazionale Italiana di Entomologia, Anno LXIII, 189-194. Controllo biologico della cimice americana delle conifere, *Leptoglossus occidentalis* Heidemann (Heteroptera Coreidae).
+- **Peverieri, G. S., Marianelli, L., Strangi, A., Binazzi, F., Paoli, F., & Roversi, P. F.** 2015 / Atti Accademia Nazionale Italiana di Entomologia, Anno LXIII, 189-194. Controllo biologico della cimice americana delle conifere, *Leptoglossus occidentalis* Heidemann (Heteroptera Coreidae). https://www.accademiaentomologia.it/wp-content/uploads/2020/05/Atti2015.pdf
 
   
 **Conference proceedings**
