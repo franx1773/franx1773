@@ -131,7 +131,7 @@ Short description of the project's biodiversity or plant-health objective and yo
 </td>
     <td width="50%" valign="top">
 
-### 🐜 [PROJECT ACRONYM]
+### 🐜🐝🏞️  [PROJECT ACRONYM]
 **Programme:** [Nationally funded scheme]
 **Years:** 20XX–20XX
 **Role:** Taxonomic & data lead
@@ -143,6 +143,39 @@ Short description of the project's goals, outputs (datasets, keys, reports) and 
 </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ☘️🌲  [PROJECT ACRONYM]
+**Programme:** Horizon Europe / LIFE / [other]
+**Years:** 20XX–20XX
+**Role:** Researcher / WP contributor
+
+Short description of the project's biodiversity or plant-health objective and your specific contribution.
+
+`#biodiversity` `#forestry` `#pest-management`
+
+</td>
+    <td width="50%" valign="top">
+
+### 🌻🥔 [PROJECT ACRONYM]
+**Programme:** [Nationally funded scheme]
+**Years:** 20XX–20XX
+**Role:** Taxonomic & data lead
+
+Short description of the project's goals, outputs (datasets, keys, reports) and policy or conservation impact.
+
+`#taxonomy` `#data-analysis` `#monitoring`
+
+</td>
+  </tr>
+</table>
+
+
+
+
 
 🔗 *Pprojects linked to CORDIS pages, official sites & dedicated repositories.*
 
