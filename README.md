@@ -23,13 +23,13 @@
 ## 🌍 About Me
 
 ```yaml
-name:        Francesco Binazzi - PhD
-role:        Researcher in Ecology, Taxonomy & Conservation Biology
-focus:       biodiversity · sustainable pest management · data analysis
-study_taxa:  [ aphids, bark beetles, soil microarthropods ]
-contributes: [ national emergency plans, EU-funded projects, national projects ]
-interests:   [ forestry, agriculture, environmental policy, science & humanities ]
-mindset:     "data analysis, taxonomy, and decisions that help ecosystems"
+Name:        Francesco Binazzi - PhD
+Role:        Researcher in Ecology, Taxonomy & Conservation Biology
+Focus:       biodiversity · sustainable pest management · data analysis
+Study taxa:  aphids, bark beetles, soil microarthropods
+Contributes: national emergency plans, EU-funded projects, national projects
+Interests:   forestry, agriculture, environmental policy, science & humanities
+Mindset:     data analysis, taxonomy, and decisions that help ecosystems
 ```
 
 🔬 I study the taxonomy and biodiversity of small but ecologically pivotal organisms — and translate field and lab data into evidence that supports **conservation, plant health, and sustainable management**.
@@ -80,18 +80,16 @@ mindset:     "data analysis, taxonomy, and decisions that help ecosystems"
 
 ## 📌 Featured Work
 
-> 📁 *Pin your key repositories here — for example:*
 
-- 🐜 **`aphid-taxonomy-tools`** — scripts and reference data for aphid identification and curation
-- 🪲 **`bark-beetle-monitoring`** — survey data, trap analysis and outbreak risk modelling
-- 🪱 **`soil-microarthropod-diversity`** — community metrics and biodiversity indices
-- 📈 **`eco-data-workflows`** — reproducible Python/R notebooks for ecological datasets
+- 🐜 **`Aphid-taxonomy-tools`** — scripts and reference data for aphid identification and curation
+- 🪲 **`Bark-beetle-monitoring`** — survey data, trap analysis and outbreak risk modelling
+- 🪱 **`Soil-microarthropod-diversity`** — community metrics and biodiversity indices
+- 📈 **`Eco-data-workflows`** — reproducible Python/R notebooks for ecological datasets
 
 ---
 
 ## 🔬 Current Projects
 
-> 🧭 *Ongoing research and applied work — edit titles, roles and links to match your portfolio.*
 
 | Status | Project | Focus | My Role |
 | :--: | :-- | :-- | :-- |
@@ -107,12 +105,15 @@ mindset:     "data analysis, taxonomy, and decisions that help ecosystems"
 ## EU & Funded Projects Highlight
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Horizon%20Europe-003399?style=for-the-badge&logo=europeanunion&logoColor=ffd617" alt="Horizon Europe"/>
+  
   <img src="https://img.shields.io/badge/EU%20Funded-003399?style=for-the-badge&logo=europeanunion&logoColor=ffd617" alt="EU Funded"/>
+  <img src="https://img.shields.io/badge/Horizon%20-003399?style=for-the-badge&logo=europeanunion&logoColor=ffd617" alt="Horizon Europe"/>
+  <img src="https://img.shields.io/badge/LIFE%20-003399?style=for-the-badge&logo=europeanunion&logoColor=ffd617" alt="LIFE Europe"/>
   <img src="https://img.shields.io/badge/Nationally%20Funded-2d6a4f?style=for-the-badge" alt="Nationally Funded"/>
+  <img src="https://img.shields.io/badge/Internationally%20Funded-2d6a4f?style=for-the-badge" alt="Internationally Funded"/>
 </p>
 
-> 💶 *Replace the entries below with your real grants — include programme, acronym, years, and a one-line outcome.*
+
 
 <table>
   <tr>
@@ -143,13 +144,12 @@ Short description of the project's goals, outputs (datasets, keys, reports) and 
   </tr>
 </table>
 
-🔗 *Tip: link each project to its CORDIS page, official site, or a dedicated repository.*
+🔗 *Pprojects linked to CORDIS pages, official sites & dedicated repositories.*
 
 ---
 
 ## 📚 Selected Publications
 
-> 📝 *Maintained by hand — edit the list directly in this file. Links are optional, so non–peer-reviewed articles, reports, preprints and outreach pieces belong here too.*
 
 <!--
   HOW TO ADD A PUBLICATION → copy a line below and edit it. The [link] part is optional.
@@ -268,7 +268,7 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_
 </p>
 
 > *"In ecology, the smallest organisms often carry the largest signals.
-> Careful taxonomy and honest data are the foundation of good conservation."*
+> Data sampling and taxonomy are the foundation of good conservation."*
 
 ---
 
