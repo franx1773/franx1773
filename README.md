@@ -119,7 +119,7 @@ Mindset:     data analysis, taxonomy, and decisions that help ecosystems
   <tr>
     <td width="50%" valign="top">
 
-### 🌳 [PROJECT ACRONYM]
+### 🌳🌻🥔 [PROJECT ACRONYM]
 **Programme:** Horizon Europe / LIFE / [other]
 **Years:** 20XX–20XX
 **Role:** Researcher / WP contributor
@@ -131,7 +131,7 @@ Short description of the project's biodiversity or plant-health objective and yo
 </td>
     <td width="50%" valign="top">
 
-### 🐜🐝🏞️  [PROJECT ACRONYM]
+### 🐜🐝🏞️🌻🥔  [PROJECT ACRONYM]
 **Programme:** [Nationally funded scheme]
 **Years:** 20XX–20XX
 **Role:** Taxonomic & data lead
@@ -148,26 +148,37 @@ Short description of the project's goals, outputs (datasets, keys, reports) and 
   <tr>
     <td width="50%" valign="top">
 
-### ☘️🌲  [PROJECT ACRONYM]
-**Programme:** Horizon Europe / LIFE / [other]
-**Years:** 20XX–20XX
-**Role:** Researcher / WP contributor
+### ☘️🌲🐜🪱  [MONI.TOSC]
 
-Short description of the project's biodiversity or plant-health objective and your specific contribution.
+**Programme:** SFN - Tuscany Region 
 
-`#biodiversity` `#forestry` `#pest-management`
+**Years:** 2022–2026
+
+**Role:** Researcher / Task leader / Chestnut management
+
+Scientific cooperation agreement for the implementation of joint activities in the the following sectors: Entomology and Nematology on ornamental & forest trees and shrubs.
+
+Task objective: *Castanea sativa* monitoring & pest control.
+
+`#biodiversity` `#forestry` `#pest-management` `#data-analysis`
 
 </td>
     <td width="50%" valign="top">
 
-### 🌻🥔 [PROJECT ACRONYM]
+### ☘️🌲🐜🪱 [PROTEGGO]
+
 **Programme:** [Nationally funded scheme]
-**Years:** 20XX–20XX
-**Role:** Taxonomic & data lead
 
-Short description of the project's goals, outputs (datasets, keys, reports) and policy or conservation impact.
+**Years:** 2021–2026
 
-`#taxonomy` `#data-analysis` `#monitoring`
+**Role:** Participant & Data analysis & Institutional tasks
+
+Cooperation agreement: Strengthening control systems, data collection and development of information systems for plant protection.
+
+Pest risk assessment management
+
+
+`#taxonomy` `#data-analysis` `#monitoring` `#scinetific reports` `#PRA - Pest Risk Assessment`
 
 </td>
   </tr>
