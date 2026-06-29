@@ -285,7 +285,7 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_
 - **Peverieri, G. S., Marianelli, L., Strangi, A., Binazzi, F., Paoli, F., & Roversi, P. F.** 2015 / Atti Accademia Nazionale Italiana di Entomologia, Anno LXIII, 189-194. Controllo biologico della cimice americana delle conifere, *Leptoglossus occidentalis* Heidemann (Heteroptera Coreidae). https://www.accademiaentomologia.it/wp-content/uploads/2020/05/Atti2015.pdf
 
   
-**Conference proceedings - Francesco Binazzi,PhD**
+**Conference proceedings - Francesco Binazzi, PhD**
 
   - **Mazza, G., Marraccini, D., Binazzi, F., Mori, E., Marianelli, L., Sabbatini Peverieri, G., Roversi, P. F., & Gargani, E.** XXVI Congresso Nazionale Italiano di Entomologia, 7-11/06/2021, p. 132. *Ricania speculum* (Walker) in Italia: Un aggiornamento sulla distribuzione, piante ospiti, monitoraggio e nemici naturali.
   - **Mazza, G., Marraccini, D., Binazzi, F., Mori, E., Marianelli, L., Sabbatini Peverieri, G., Roversi, P. F., & Gargani, E.** XXVI Congresso Nazionale Italiano di Entomologia, 7-11/06/2021, p. 132. *Ricania speculum* (Walker) in Italia: Un aggiornamento sulla distribuzione, piante ospiti, monitoraggio e nemici naturali
