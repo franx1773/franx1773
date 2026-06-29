@@ -169,8 +169,9 @@ Francesco Binazzi: Participant
 **Role:** Researcher / Task leader / Chestnut management
 
 Scientific cooperation agreement for the implementation of joint activities in the the following sectors: Entomology and Nematology on ornamental & forest trees and shrubs.
-Francesco Binazzi: Task leader
 Task objective: *Castanea sativa* monitoring & pest control.
+
+Francesco Binazzi: Task leader
 
 `#biodiversity` `#forestry` `#pest-management` `#data-analysis`
 
@@ -186,8 +187,9 @@ Task objective: *Castanea sativa* monitoring & pest control.
 **Role:** Participant & Data analysis & Institutional tasks
 
 Cooperation agreement: Strengthening control systems, data collection and development of information systems for plant protection.
-Francesco Binazzi: Participant
 Pest risk assessment management
+
+Francesco Binazzi: Participant
 
 
 `#taxonomy` `#data-analysis` `#monitoring` `#scinetific reports` `#PRA - Pest Risk Assessment`
