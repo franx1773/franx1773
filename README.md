@@ -128,7 +128,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 **Role:** Researcher / WP contributor
 
 New approaches for protection in a modern sustainable viticulture: from nursery to harvesting (EU). 
-
 In particular, collaborated in the systematic identification of soil microarthropods collected from sites in Tuscany and Cyprus and in the processing of collected data.
 
 Francesco Binazzi: Participant
@@ -170,6 +169,7 @@ Francesco Binazzi: Participant
 **Role:** Researcher / Task leader / Chestnut management
 
 Scientific cooperation agreement for the implementation of joint activities in the the following sectors: Entomology and Nematology on ornamental & forest trees and shrubs.
+
 Task objective: *Castanea sativa* monitoring & pest control.
 
 Francesco Binazzi: Task leader
