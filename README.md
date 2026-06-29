@@ -297,7 +297,7 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_
 
 <p align="left"> 
   <a href="https://orcid.org/0000-0003-4924-8229"><img src="https://img.shields.io/badge/Full%20list%20on%20ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Full%20list%20on%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&tzom=-120&user=_nH7DikAAAAJ"><img src="https://img.shields.io/badge/Full%20list%20on%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
 </p>
 
 ---
