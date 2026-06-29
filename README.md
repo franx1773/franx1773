@@ -129,7 +129,7 @@ Mindset:     data analysis, taxonomy, and decisions that help ecosystems
 
 New approaches for protection in a modern sustainable viticulture: from nursery to harvesting (EU). In particular, collaborated in the systematic identification of soil microarthropods collected from sites in Tuscany and Cyprus and in the processing of collected data.
 
-Francesco Binazzi: Task leader
+Francesco Binazzi: Participant
 
 `#biodiversity` `#agriculture` `#pest-management`
 
