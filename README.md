@@ -190,10 +190,10 @@ Cooperation agreement: Strengthening control systems, data collection and develo
 Pest risk assessment management
 
 
+
 Francesco Binazzi: Participant
 
-
-`#data-analysis` `#scinetific reports` `#PRA - Pest Risk Assessment`
+`#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
 </td>
   </tr>
