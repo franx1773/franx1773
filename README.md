@@ -147,6 +147,7 @@ Francesco Binazzi: Participant
 
 Participation in the SILAPEST Project. The aim of the project is to identify a complete cultivation/production system, both for seed potatoes and ware potatoes, to be applied in the Sila area using eco-compatible, direct or indirect, pest management strategies against potato pests. 
 
+
 Francesco Binazzi: Participant
 
 `#taxonomy` `#data-analysis` `#monitoring`
@@ -187,6 +188,7 @@ Francesco Binazzi: Task leader
 
 Cooperation agreement: Strengthening control systems, data collection and development of information systems for plant protection.
 Pest risk assessment management
+
 
 Francesco Binazzi: Participant
 
