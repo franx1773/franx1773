@@ -178,7 +178,7 @@ Francesco Binazzi: Task leader
 </td>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜🪱 [PROTEGGO]
+### ☘️🌲🐜 [PROTEGGO]
 
 **Programme:** [Nationally funded scheme]
 
