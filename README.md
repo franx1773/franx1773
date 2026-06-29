@@ -128,10 +128,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 **Role:** Researcher / WP contributor
 
 New approaches for protection in a modern sustainable viticulture: from nursery to harvesting (EU). In particular, collaborated in the systematic identification of soil microarthropods collected from sites in Tuscany and Cyprus and in the processing of collected data.
-
-
 Francesco Binazzi: Participant
-
 `#biodiversity` `#agriculture` `#pest-management`
 
 </td>
@@ -146,11 +143,7 @@ Francesco Binazzi: Participant
 **Role:** Taxonomic & Field activities & Data analyses
 
 Participation in the SILAPEST Project. The aim of the project is to identify a complete cultivation/production system, both for seed potatoes and ware potatoes, to be applied in the Sila area using eco-compatible, direct or indirect, pest management strategies against potato pests. 
-
 Francesco Binazzi: Participant
-
-
-
 `#taxonomy` `#data-analysis` `#monitoring`
 
 </td>
@@ -171,9 +164,7 @@ Francesco Binazzi: Participant
 
 Scientific cooperation agreement for the implementation of joint activities in the the following sectors: Entomology and Nematology on ornamental & forest trees and shrubs.
 Task objective: *Castanea sativa* monitoring & pest control.
-
 Francesco Binazzi: Task leader
-
 `#biodiversity` `#forestry` `#pest-management` `#data-analysis`
 
 </td>
@@ -189,12 +180,7 @@ Francesco Binazzi: Task leader
 
 Cooperation agreement: Strengthening control systems, data collection and development of information systems for plant protection.
 Pest risk assessment management
-
-
-
-
 Francesco Binazzi: Participant
-
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
 </td>
