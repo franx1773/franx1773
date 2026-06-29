@@ -138,7 +138,7 @@ Francesco Binazzi: Participant
 
 ### 🐜🏞️🥔  [SILAPEST]
 
-**Programme:** [Nationally funded scheme]
+**Programme:** Nationally funded 
 
 **Years:** 2023–2026
 
@@ -180,7 +180,7 @@ Francesco Binazzi: Task leader
 
 ### ☘️🌲🐜 [PROTEGGO]
 
-**Programme:** [Nationally funded scheme]
+**Programme:** Nationally funded 
 
 **Years:** 2021–2026
 
