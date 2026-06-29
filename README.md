@@ -189,6 +189,7 @@ Francesco Binazzi: Task leader
 Cooperation agreement: Strengthening control systems, data collection and development of information systems for plant protection.
 Pest risk assessment management
 
+
 Francesco Binazzi: Participant
 
 
