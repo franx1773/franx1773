@@ -193,7 +193,7 @@ Pest risk assessment management
 Francesco Binazzi: Participant
 
 
-`#taxonomy` `#data-analysis` `#monitoring` `#scinetific reports` `#PRA - Pest Risk Assessment`
+`#data-analysis` `#scinetific reports` `#PRA - Pest Risk Assessment`
 
 </td>
   </tr>
