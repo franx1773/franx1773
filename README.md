@@ -337,7 +337,7 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://orcid.org/0000-0003-4924-8229"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
 </p>
 
 <!-- ====================== FOOTER ====================== -->
