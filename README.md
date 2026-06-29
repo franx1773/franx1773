@@ -119,24 +119,27 @@ Mindset:     data analysis, taxonomy, and decisions that help ecosystems
   <tr>
     <td width="50%" valign="top">
 
-### 🌳🌻🥔 [PROJECT ACRONYM]
-**Programme:** Horizon Europe / LIFE / [other]
-**Years:** 20XX–20XX
+### 🌳🌻🥔 [GREEN GRAPES]
+**Programme:**  LIFE 
+**Years:** 2020
 **Role:** Researcher / WP contributor
+New approaches for protection in a modern sustainable viticulture: from nursery to harvesting (EU). In particular, collaborated in the systematic identification of soil microarthropods collected from sites in Tuscany and Cyprus and in the processing of collected data.
+Francesco Binazzi: Task leader
 
-Short description of the project's biodiversity or plant-health objective and your specific contribution.
-
-`#biodiversity` `#forestry` `#pest-management`
+`#biodiversity` `#agriculture` `#pest-management`
 
 </td>
     <td width="50%" valign="top">
 
-### 🐜🐝🏞️🌻🥔  [PROJECT ACRONYM]
+### 🐜🏞️🌻🥔  [SILAPEST]
 **Programme:** [Nationally funded scheme]
-**Years:** 20XX–20XX
-**Role:** Taxonomic & data lead
+**Years:** 2023–2026
+**Role:** Taxonomic & Field activities & Data analyses
 
-Short description of the project's goals, outputs (datasets, keys, reports) and policy or conservation impact.
+Participation in the SILAPEST Project. The aim of the project is to identify a complete cultivation/production system, both for seed potatoes and ware potatoes, to be applied in the Sila area using eco-compatible, direct or indirect, pest management strategies against potato pests. 
+Francesco Binazzi: Participant
+
+
 
 `#taxonomy` `#data-analysis` `#monitoring`
 
@@ -157,7 +160,7 @@ Short description of the project's goals, outputs (datasets, keys, reports) and 
 **Role:** Researcher / Task leader / Chestnut management
 
 Scientific cooperation agreement for the implementation of joint activities in the the following sectors: Entomology and Nematology on ornamental & forest trees and shrubs.
-
+Francesco Binazzi: Task leader
 Task objective: *Castanea sativa* monitoring & pest control.
 
 `#biodiversity` `#forestry` `#pest-management` `#data-analysis`
@@ -174,7 +177,7 @@ Task objective: *Castanea sativa* monitoring & pest control.
 **Role:** Participant & Data analysis & Institutional tasks
 
 Cooperation agreement: Strengthening control systems, data collection and development of information systems for plant protection.
-
+Francesco Binazzi: Participant
 Pest risk assessment management
 
 
