@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=franx1773&label=Profile%20views&color=2d6a4f&style=flat" alt="profile views" />
   <a href="https://orcid.org/0000-0003-4924-8229"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://www.researchgate.net/"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+  <a href="https://www.researchgate.net/profile/Francesco-Binazzi-2?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
   <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
 
