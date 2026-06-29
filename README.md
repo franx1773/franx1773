@@ -119,11 +119,16 @@ Mindset:     data analysis, taxonomy, and decisions that help ecosystems
   <tr>
     <td width="50%" valign="top">
 
-### 🌳🌻🥔 [GREEN GRAPES]
+### 🍇 [GREEN GRAPES]
+
 **Programme:**  LIFE 
+
 **Years:** 2020
+
 **Role:** Researcher / WP contributor
+
 New approaches for protection in a modern sustainable viticulture: from nursery to harvesting (EU). In particular, collaborated in the systematic identification of soil microarthropods collected from sites in Tuscany and Cyprus and in the processing of collected data.
+
 Francesco Binazzi: Task leader
 
 `#biodiversity` `#agriculture` `#pest-management`
@@ -131,12 +136,16 @@ Francesco Binazzi: Task leader
 </td>
     <td width="50%" valign="top">
 
-### 🐜🏞️🌻🥔  [SILAPEST]
+### 🐜🏞️🥔  [SILAPEST]
+
 **Programme:** [Nationally funded scheme]
+
 **Years:** 2023–2026
+
 **Role:** Taxonomic & Field activities & Data analyses
 
 Participation in the SILAPEST Project. The aim of the project is to identify a complete cultivation/production system, both for seed potatoes and ware potatoes, to be applied in the Sila area using eco-compatible, direct or indirect, pest management strategies against potato pests. 
+
 Francesco Binazzi: Participant
 
 
