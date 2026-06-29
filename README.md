@@ -25,11 +25,11 @@
 ```yaml
 Name:        Francesco Binazzi - PhD
 Role:        Researcher in Ecology, Taxonomy & Conservation Biology
-Focus:       biodiversity · sustainable pest management · data analysis
-Study taxa:  aphids, bark beetles, soil microarthropods
-Contributes: national emergency plans, EU-funded projects, national projects
-Interests:   forestry, agriculture, environmental policy, science & humanities
-Mindset:     data analysis, taxonomy, and decisions that help ecosystems
+Focus:       Biodiversity · sustainable pest management · data analysis
+Study taxa:  Aphids, bark beetles, soil microarthropods
+Contributes: National emergency plans, EU-funded projects, national projects
+Interests:   Forestry, agriculture, environmental policy, science & humanities
+Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 ```
 
 🔬 I study the taxonomy and biodiversity of small but ecologically pivotal organisms — and translate field and lab data into evidence that supports **conservation, plant health, and sustainable management**.
