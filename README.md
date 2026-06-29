@@ -295,9 +295,8 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_
   - Pennacchio F., De Silva J., Francardi V., **Binazzi F.**, Roversi P.F., **2011** – Atti XIII Congr.Naz.It. Ent.,Genova, 13-16 giugno 2011, p. 111. Infestazioni di *Ips typographus* in peccete dell’Appennino settentrionale e strategie di controllo
 
 
-
-<p align="left">
-  <a href="https://orcid.org/"><img src="https://img.shields.io/badge/Full%20list%20on%20ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
+<p align="left"> 
+  <a href="https://orcid.org/0000-0003-4924-8229"><img src="https://img.shields.io/badge/Full%20list%20on%20ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Full%20list%20on%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
 </p>
 
