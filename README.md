@@ -1,6 +1,6 @@
 <!-- ====================== HEADER BANNER ====================== -->
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a18,50:262624,100:2d6a4f&height=220&section=header&text=Francesco%20Binazzi%20-%20%20%7C%20Ecology%20Researcher&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Taxonomy%20%C2%B7%20Biodiversity%20%C2%B7%20Sustainable%20Pest%20Management%20%C2%B7%20Data%20Analysis&descSize=16&descAlignY=58" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a18,50:262624,100:2d6a4f&height=220&section=header&text=Francesco%20Binazzi%20%20%20%7C%20Ecology%20Researcher&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Taxonomy%20%C2%B7%20Biodiversity%20%C2%B7%20Sustainable%20Pest%20Management%20%C2%B7%20Data%20Analysis&descSize=16&descAlignY=58" alt="header"/>
 </a>
 
 <!-- ====================== TYPING TAGLINE ====================== -->
