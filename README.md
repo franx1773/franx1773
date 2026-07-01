@@ -217,7 +217,7 @@ Francesco Binazzi: Participant
 
 
 
-**Peer-reviewed articles - Francesco Binazzi, PhD**
+**Peer-reviewed articles - Francesco Binazzi**
 
 - **Fabiani, A., Mocali, S., Binazzi, F., Del Duca, S., Vitali, F., & Landi, S. (2026)**. Effect of Different Set-Aside Management Systems on Soil Biological Fertility and Biodiversity of Bacterial and Microarthropod Communities. Sustainability, 18(5), 2575. https://doi.org/10.3390/su18052575
 - **Landi S., Binazzi F., Papini R., D’Errico G., Del Duca S., Fabiani A. & Mocali S., 2025**. – Effect of Long-Term Set-Aside Management System on Soil Health by Evaluation of Biodiversity Indicators. Diversity, 17 (4) : 240 https://doi.org/0.3390/d17040240. 
@@ -269,7 +269,7 @@ https://www.researchgate.net/publication/329571791_Description_of_the_alata_vivi
 -	Binazzi, F., Benassai, D., Peverieri, G. S., & Roversi, P. F. 2013 / Redia, 96, 79-84. Effects of *Leptoglossus occidentalis* Heidemann (Heteroptera Coreidae) egg age on the indigenous parasitoid Ooencyrtus pityocampae Mercet (Hymenoptera Encyrtidae). https://creajournals.crea.gov.it/index.php/redia/article/view/768
 
 
-**Reports, preprints & outreach - Francesco Binazzi, PhD**
+**Reports, preprints & outreach - Francesco Binazzi**
 
 - **EFSA (European Food Safety Authority)**, Tramontini S, Gilioli G, Mastin A, Binazzi F, Toccafondi P, Pennacchio F, Baldassarre F, Rzpecka D, Scala M, Sánchez B, Nougadère A and -Vos S, 2025. *Anthonomus eugenii* – Pest Report to support the ranking of EU candidate priority pests. EFSA supporting publication 2025:EN-9443. 40 pp. https://doi.org/10.2903/sp.efsa.2025.EN-9443
 - **EFSA (European Food Safety Authority)**, Tramontini S, Baldassarre F, Binazzi F, Gilioli G, Mastin A, Rzpecka D, Scala M, Sánchez B, Nougadère A and Vos S, 2025. *Conotrachelus nenuphar* – Pest Report to support the ranking of EU candidate priority pests. EFSA supporting publication 2025:EN-9442. 39 pp. https://doi.org/10.2903/sp.efsa.2025.EN-9442
@@ -286,7 +286,7 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_
 - **Peverieri, G. S., Marianelli, L., Strangi, A., Binazzi, F., Paoli, F., & Roversi, P. F.** 2015 / Atti Accademia Nazionale Italiana di Entomologia, Anno LXIII, 189-194. Controllo biologico della cimice americana delle conifere, *Leptoglossus occidentalis* Heidemann (Heteroptera Coreidae). https://www.accademiaentomologia.it/wp-content/uploads/2020/05/Atti2015.pdf
 
   
-**Conference proceedings - Francesco Binazzi, PhD**
+**Conference proceedings - Francesco Binazzi**
 
   - **Mazza, G., Marraccini, D., Binazzi, F., Mori, E., Marianelli, L., Sabbatini Peverieri, G., Roversi, P. F., & Gargani, E.** XXVI Congresso Nazionale Italiano di Entomologia, 7-11/06/2021, p. 132. *Ricania speculum* (Walker) in Italia: Un aggiornamento sulla distribuzione, piante ospiti, monitoraggio e nemici naturali.
   - **Mazza, G., Marraccini, D., Binazzi, F., Mori, E., Marianelli, L., Sabbatini Peverieri, G., Roversi, P. F., & Gargani, E.** XXVI Congresso Nazionale Italiano di Entomologia, 7-11/06/2021, p. 132. *Ricania speculum* (Walker) in Italia: Un aggiornamento sulla distribuzione, piante ospiti, monitoraggio e nemici naturali
