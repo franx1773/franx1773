@@ -315,12 +315,15 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=franx1773&amp;layout=compact&amp;hide_border=true&amp;bg_color=262624&amp;title_color=52b788&amp;text_color=e8e6dc&amp;langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franx1773&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=262624&title_color=52b788&text_color=e8e6dc&langs_count=8" alt="Top languages"/>
-</p>
+  <!-- R is your most used language, so it goes first! -->
+  <img src="https://img.shields.io/badge/R-52b788?style=flat-square&logo=r&logoColor=e8e6dc&labelColor=262624" alt="R" />
+  <img src="https://img.shields.io/badge/Python-52b788?style=flat-square&logo=python&logoColor=e8e6dc&labelColor=262624" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-52b788?style=flat-square&logo=javascript&logoColor=e8e6dc&labelColor=262624" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-52b788?style=flat-square&logo=typescript&logoColor=e8e6dc&labelColor=262624" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-52b788?style=flat-square&logo=html5&logoColor=e8e6dc&labelColor=262624" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-52b788?style=flat-square&logo=css3&logoColor=e8e6dc&labelColor=262624" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C++-52b788?style=flat-square&logo=c%2B%2B&logoColor=e8e6dc&labelColor=262624" alt="C++" />
+</p> 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=franx1773&hide_border=true&background=262624&border=262624&stroke=2d6a4f&ring=52b788&fire=52b788&currStreakNum=e8e6dc&currStreakLabel=52b788&sideNums=e8e6dc&sideLabels=e8e6dc&dates=8b949e&dayLabels=e8e6dc" alt="GitHub streak"/>
