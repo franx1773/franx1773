@@ -283,7 +283,16 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/07/dtu-n.-46-toxoci
  Documento n. 54. 15-11-23.
 https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_signed.pdf
 - **Binazzi, F., Peverieri, G. S., & Roversi, P. F.** 2016 / Energia, ambiente e innovazione, 22-25. Pre-release risk assessment for classical biological control of harmful alien species. https://doi.org/10.12910/EAI2016-038.
-- **Peverieri, G. S., Marianelli, L., Strangi, A., Binazzi, F., Paoli, F., & Roversi, P. F.** 2015 / Atti Accademia Nazionale Italiana di Entomologia, Anno LXIII, 189-194. Controllo biologico della cimice americana delle conifere, *Leptoglossus occidentalis* Heidemann (Heteroptera Coreidae). https://www.accademiaentomologia.it/wp-content/uploads/2020/05/Atti2015.pdf
+- **Peverieri, G. S., Marianelli, L., Strangi, A., Binazzi, F., Paoli, F., & Roversi, P. F.2015** / Atti Accademia Nazionale Italiana di Entomologia, Anno LXIII, 189-194. Controllo biologico della cimice americana delle conifere, *Leptoglossus occidentalis* Heidemann (Heteroptera Coreidae). https://www.accademiaentomologia.it/wp-content/uploads/2020/05/Atti2015.pdf
+
+**National Emergency Plans - Francesco Binazzi**
+
+- **Il Ministro dell’agricoltura, della sovranità alimentare e delle foreste. (2026)**.  *Decreto ministeriale dell’Agricoltura, della Sovranità Alimentare e delle Foreste del 5 novembre 2025 concernente l’adozione del Piano di emergenza nazionale per il contrasto di Conotrachelus nenuphar (Herbts)*.(Gazzetta Ufficiale n. 32 del 09/02/2026). https://www.protezionedellepiante.it/decreto-ministeriale-del-5-novembre-2025-piano-di-emergenza-nazionale-per-conotrachelus-nenuphar-herbts/ (Accessed: 24/07/2026). 
+- **Il Ministro dell’agricoltura, della sovranità alimentare e delle foreste. (2026)**. *Decreto ministeriale dell’Agricoltura, della Sovranità Alimentare e delle Foreste del 5 novembre 2025 concernente l’adozione del Piano di emergenza nazionale per il contrasto di Agrilus planipennis Fairmaire*.(Gazzetta Ufficiale n. 21 del 27/1/2026). https://www.protezionedellepiante.it/decreto-ministeriale-del-5-novembre-2025-piano-di-emergenza-nazionale-per-conotrachelus-nenuphar-herbts/ (Accessed: 24/07/2026).  
+- **Il Ministro dell’agricoltura, della sovranità alimentare e delle foreste. (2026)**. *Decreto ministeriale dell’Agricoltura, della Sovranità Alimentare e delle Foreste del 5 novembre 2025 concernente l’adozione del Piano di emergenza nazionale per il contrasto di Agrilus anxius Gory*.(Gazzetta Ufficiale n. 21 del 27/1/2026). https://www.protezionedellepiante.it/decreto-ministeriale-del-5-novembre-2025-piano-di-emergenza-nazionale-per-agrilus-anxius/ (Accessed: 24/07/2026). 
+- **Il Ministro dell’agricoltura, della sovranità alimentare e delle foreste. (2026)**. *Decreto ministeriale dell’Agricoltura, della Sovranità Alimentare e delle Foreste del 5 novembre 2025 concernente l’adozione del Piano di emergenza nazionale per il contrasto di Anthonomus eugenii Cano*. (Gazzetta Ufficiale n. 22 del 28/1/2026). https://www.protezionedellepiante.it/decreto-ministeriale-del-5-novembre-2025-piano-di-emergenza-nazionale-per-anthonomus-eugenii/ (Accessed: 24/07/2026). 
+
+
 
   
 **Conference proceedings - Francesco Binazzi**
