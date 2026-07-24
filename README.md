@@ -315,6 +315,10 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=franx1773&amp;layout=compact&amp;hide_border=true&amp;bg_color=262624&amp;title_color=52b788&amp;text_color=e8e6dc&amp;langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franx1773&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=262624&title_color=52b788&text_color=e8e6dc&langs_count=8" alt="Top languages"/>
 </p>
 
