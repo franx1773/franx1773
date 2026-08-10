@@ -195,10 +195,6 @@ Francesco Binazzi: Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
-</td>
-  </tr>
-</table>
-
 
 </td>
     <td width="50%" valign="top">
