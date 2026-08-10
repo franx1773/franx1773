@@ -199,6 +199,26 @@ Francesco Binazzi: Participant
   </tr>
 </table>
 
+### ☘️🌲🐜 [PRIORITY PESTS]
+
+**Programme:** EU funded (EFSA)
+
+**Years:** 2023–2024
+
+**Role:** WP Leader
+
+Data and evidence collection in support to the pest specific assessments.
+
+Pest risk assessment management
+
+
+Francesco Binazzi: WP Leader
+
+`#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
+
+</td>
+  </tr>
+</table>
 
 
 
