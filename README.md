@@ -210,7 +210,7 @@ Francesco Binazzi: Participant
 
 **Years:** 2023–2024
 
-**Role:** WP Leader
+**Role:**  Taxonomic & Field activities & Data analyses
 
 Data and evidence collection in support to the pest specific assessments.
 
@@ -232,7 +232,7 @@ Francesco Binazzi: WP Leader
 
 **Years:** 2018
 
-**Role:** Participant
+**Role:** Taxonomic & Field activities & Data analyses
 
 Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
 
