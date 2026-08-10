@@ -145,7 +145,7 @@ Francesco Binazzi: Participant
 
 **Role:** Taxonomic & Field activities & Data analyses
 
-Participation in the SILAPEST Project. The aim of the project is to identify a complete cultivation/production system, both for seed potatoes and ware potatoes, to be applied in the Sila area using eco-compatible, direct or indirect, pest management strategies against potato pests. 
+The aim of the project is to identify a complete cultivation/production system, both for seed potatoes and ware potatoes, to be applied in the Sila area using eco-compatible, direct or indirect, pest management strategies against potato pests. 
 
 
 Francesco Binazzi: Participant
@@ -270,7 +270,7 @@ https://www.researchgate.net/publication/329571791_Description_of_the_alata_vivi
 
 
 **Reports, preprints & outreach - Francesco Binazzi**
-- **SFN (Servizio Fitosanitario Nazinoale)**, Toccafondi P, Binazzi F, Pennacchio F, Pintus S and Tiranti B, 2026. –  Indicazioni scientifiche sull’organismo nocivo: Scolitini non-UE delle conifere (Coleoptera Curculionidae Scolytinae) - DOCUMENTI TECNICI UFFICIALI – Documento n. 84. 28/07/2026. https://www.protezionedellepiante.it/wp-content/uploads/2026/07/dtu-n.84-scolytinae-noneu_sign.pdf
+- **SFN (Servizio Fitosanitario Nazionale)**, Toccafondi P, Binazzi F, Pennacchio F, Pintus S and Tiranti B, 2026. –  Indicazioni scientifiche sull’organismo nocivo: Scolitini non-UE delle conifere (Coleoptera Curculionidae Scolytinae) - DOCUMENTI TECNICI UFFICIALI – Documento n. 84. 28/07/2026. https://www.protezionedellepiante.it/wp-content/uploads/2026/07/dtu-n.84-scolytinae-noneu_sign.pdf
 - **EFSA (European Food Safety Authority)**, Tramontini S, Gilioli G, Mastin A, Binazzi F, Toccafondi P, Pennacchio F, Baldassarre F, Rzpecka D, Scala M, Sánchez B, Nougadère A and -Vos S, 2025. *Anthonomus eugenii* – Pest Report to support the ranking of EU candidate priority pests. EFSA supporting publication 2025:EN-9443. 40 pp. https://doi.org/10.2903/sp.efsa.2025.EN-9443
 - **EFSA (European Food Safety Authority)**, Tramontini S, Baldassarre F, Binazzi F, Gilioli G, Mastin A, Rzpecka D, Scala M, Sánchez B, Nougadère A and Vos S, 2025. *Conotrachelus nenuphar* – Pest Report to support the ranking of EU candidate priority pests. EFSA supporting publication 2025:EN-9442. 39 pp. https://doi.org/10.2903/sp.efsa.2025.EN-9442
 -	**EFSA (European Food Safety Authority)**, Tramontini S, Gilioli G, Antoniou A, Rzepecka D, Pennacchio F, Binazzi F, Krusteva R, Scala M, Sánchez B, Nougadère A and Sybren Vos, 2025. *Agrilus anxius* – Pest Report to support the ranking of EU candidate priority pests. EFSA supporting publication 2025:EN-9433. 30 pp. https://doi.org/10.2903/sp.efsa.2025.EN-9433
