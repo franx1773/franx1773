@@ -197,6 +197,11 @@ Francesco Binazzi: Participant
 
 
 </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="50%" valign="top">
 
 ### ☘️🌲🐜 [PRIORITY PESTS]
@@ -218,7 +223,6 @@ Francesco Binazzi: WP Leader
 </td>
   </tr>
 </table>
-
 
 
 </td>
