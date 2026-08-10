@@ -248,8 +248,7 @@ Francesco Binazzi: Participant
   </tr>
 </table>
 
-</td>
-    <td width="50%" valign="top">
+
 
 🔗 *Pprojects linked to CORDIS pages, official sites & dedicated repositories.*
 
