@@ -244,12 +244,13 @@ Francesco Binazzi: Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
-</td>
-  </tr>
-</table>
-
 
 🔗 *Pprojects linked to CORDIS pages, official sites & dedicated repositories.*
+
+
+
+
+
 
 ---
 
