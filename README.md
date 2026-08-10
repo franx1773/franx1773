@@ -230,13 +230,13 @@ Francesco Binazzi: WP Leader
 
 ### ☘️🌲🐜 [CO.XI.BO]
 
-**Programme:** EU funded (EFSA)
+**Programme:** Funded by MASAF DISR 05 
 
-**Years:** 2023–2024
+**Years:** 2018
 
 **Role:** Participant
 
-Contributions for the control of phytosanitary emergencies caused by Xylosandrus compactus, Xylella fastidiosa, Botrytis cinerea'. Approved by Ministerial Decree Internal Protocol of 11/12/2018 No. 0012069 and funded by DG DISR - DISR 05 - Protocol No. 0037134 of 31/12/2018
+Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
 
 Pest risk assessment management
 
