@@ -225,6 +225,29 @@ Francesco Binazzi: WP Leader
 
 
 
+</td>
+    <td width="50%" valign="top">
+
+### ☘️🌲🐜 [CO.XI.BO]
+
+**Programme:** EU funded (EFSA)
+
+**Years:** 2023–2024
+
+**Role:** Participant
+
+Contributions for the control of phytosanitary emergencies caused by Xylosandrus compactus, Xylella fastidiosa, Botrytis cinerea'. Approved by Ministerial Decree Internal Protocol of 11/12/2018 No. 0012069 and funded by DG DISR - DISR 05 - Protocol No. 0037134 of 31/12/2018
+
+Pest risk assessment management
+
+Francesco Binazzi: Participant
+
+`#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
+
+</td>
+  </tr>
+</table>
+
 
 🔗 *Pprojects linked to CORDIS pages, official sites & dedicated repositories.*
 
