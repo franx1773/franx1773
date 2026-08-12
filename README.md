@@ -121,7 +121,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 ### ☘️🌲🐜🪱  [MONI.TOSC]
 
-*Programme:* SFN - Tuscany (Regional funding)
+*Programme:* ITA (National Phytosanitary Services)
 
 *Years:* 2022–2026
 
@@ -142,7 +142,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 ### ☘️🌲🐜 [PROTEGGO]
 
-*Programme:* Nationally funded 
+*Programme:* ITA (Nationally funded)
 
 *Years:* 2021–2026
 
@@ -169,7 +169,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
       
 ### 🐜🏞️🥔  [SILAPEST]
 
-*Programme:* Nationally funded  (ITA/UE)
+*Programme:*  ITA/UE - (Nationally funded)
 
 *Years:* 2023–2026
 
@@ -191,7 +191,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
       
 ### ☘️🌲🐜 [PRIORITY PESTS]
 
-*Programme:* EU funded (EFSA)
+*Programme:* EU (EFSA-Funded))
 
 *Years:* 2023–2024
 
@@ -217,7 +217,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
       
 ### 🍇 [GREEN GRAPES]
 
-*Programme:*  LIFE (UE)
+*Programme:*  UE (LIFE - UE funded)
 
 *Years:* 2020
 
@@ -239,7 +239,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 ### ☘️🌲🐜 [CO.XI.BO]
 
-**Programme:**  MASAF - DISR 05 
+**Programme:**  ITA (MASAF - DISR 05) 
 
 **Years:** 2018
 
