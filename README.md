@@ -150,6 +150,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 The aim of the project is to identify a complete cultivation/production system, both for seed potatoes and ware potatoes, to be applied in the Sila area using eco-compatible, direct or indirect, pest management strategies against potato pests. 
 
+*Context*: Pest control
 
 *FB-Contribution*: Participant
 
@@ -174,6 +175,8 @@ The aim of the project is to identify a complete cultivation/production system, 
 *Objective:* Scientific cooperation agreement for the implementation of joint activities in the the following sectors: Entomology and Nematology on ornamental & forest trees and shrubs.
 
 Task objective: *Castanea sativa* monitoring & pest control.
+
+*Context*: Pest control
 
 *FB-Contribution:*: Task leader
 
@@ -219,7 +222,7 @@ Task objective: *Castanea sativa* monitoring & pest control.
 
 *Objective*: Data and evidence collection in support to the pest specific assessments.
 
-*Context:* Pest risk assessment management
+*Context*: Pest control
 
 *FB-Contribution:*
 
@@ -241,7 +244,7 @@ Task objective: *Castanea sativa* monitoring & pest control.
 
 Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
 
-Pest risk assessment management
+*Context*: Pest control
 
 *FB-Contribution:*
 
@@ -266,7 +269,7 @@ Pest risk assessment management
 
 *Objective:*
 
-*Context:* 
+*Context*: Pest control
 
 *FB-Contribution:* 
 
@@ -288,7 +291,7 @@ Pest risk assessment management
 
 *Objective:* 
 
-*Context:* 
+*Context*: Pest control
 
 *FB-Contribution:*
 
@@ -313,7 +316,7 @@ Pest risk assessment management
 
 *Objective:*
 
-*Context:* 
+*Context*: Pest control
 
 *FB-Contribution:* 
 
@@ -335,7 +338,7 @@ Pest risk assessment management
 
 *Objective:* 
 
-*Context:* 
+*Context*: Pest control
 
 *FB-Contribution:*
 
@@ -359,7 +362,7 @@ Pest risk assessment management
 
 *Objective:*
 
-*Context:* 
+*Context*: Pest control
 
 *FB-Contribution:* 
 
@@ -381,7 +384,7 @@ Pest risk assessment management
 
 *Objective:* 
 
-*Context:* 
+*Context*: Pest control
 
 *FB-Contribution:*
 
