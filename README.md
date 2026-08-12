@@ -268,10 +268,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 ### ☘️🌲🐜 [SALVAOLIVI]
 
-SALVAOLIVI Project  – Scientific research project by direct assignment (Total Project Budget € 2,622,809) funded by MIPAAF with DM 33437 of 21/12/2017, code ob/fu 1.06.05.08.00, expiry 09/01/2021. 
-Project coordiantor: Dr. Francesco Faggioli
-
-
 *Programme:* ITA (MIPAFF)
 
 *Years:* 2018 – 2019
@@ -302,6 +298,8 @@ Project coordiantor: Dr. Francesco Faggioli
 
 *Objective:* 
 
+*Task objective*: Taxonomy & data analysis
+
 *Context*: Pest control
 
 *Francesco Binazzi:*
@@ -326,6 +324,8 @@ Project coordiantor: Dr. Francesco Faggioli
 
 *Objective:*
 
+*Task objective*: Taxonomy & data analysis
+
 *Context*: Pest control
 
 *Francesco Binazzi:* 
@@ -345,6 +345,8 @@ Project coordiantor: Dr. Francesco Faggioli
 *Role:*  
 
 *Objective:* 
+
+*Task objective*: Taxonomy & data analysis
 
 *Context*: Pest control
 
