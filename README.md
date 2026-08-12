@@ -148,7 +148,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Role:* Taxonomic & Field activities & Data analyses
 
-The aim of the project is to identify a complete cultivation/production system, both for seed potatoes and ware potatoes, to be applied in the Sila area using eco-compatible, direct or indirect, pest management strategies against potato pests. 
+Development of a complete cultivation/production system for seed and ware potatoes in the Sila area using eco-compatible (direct or indirect) pest management strategies against potato pests. 
 
 *Context*: Pest control
 
