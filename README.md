@@ -154,7 +154,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution:* Participant
+*Francesco Binazzi:* Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
@@ -181,7 +181,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution*: Participant
+*Francesco Binazzi:* Participant
 
 `#taxonomy` `#data-analysis` `#monitoring`
 
@@ -201,7 +201,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution:* WP leader (comunication)
+*Francesco Binazzi:* WP leader (comunication)
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
@@ -229,7 +229,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution:*  WP contributor
+*Francesco Binazzi:*  WP contributor
 
 `#biodiversity` `#agriculture` `#pest-management`
 
@@ -251,7 +251,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution:* Participant
+*Francesco Binazzi:* Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
@@ -276,7 +276,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution:* 
+*Francesco Binazzi:* 
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
@@ -296,7 +296,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution:*
+*Francesco Binazzi:*
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
@@ -320,7 +320,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution:* 
+*Francesco Binazzi:* 
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
@@ -340,7 +340,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution:*
+*Francesco Binazzi:*
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
