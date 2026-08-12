@@ -276,7 +276,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Objective:* Study area related to prevention and control strategies for harmful organisms and microorganisms affecting olive tree.
 
-*Task objective*: Taxonomy & data analysis
+*Task objective*: Taxonomy & Data analysis
 
 *Context*: Pest control
 
@@ -336,7 +336,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </td>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜 [CE-MiPAAF EUPHRESCO-PEKID – European Union Project]
+### ☘️🌲🐜 [CE-MiPAAF EUPHRESCO-PEKID – UE]
 
 *Programme:* UE
 
