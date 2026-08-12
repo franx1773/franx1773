@@ -226,7 +226,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution:*
+*FB-Contribution:* WP leader (comunication)
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
