@@ -124,23 +124,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </td>
     <td width="50%" valign="top">
 
-### 🐜🏞️🥔  [SILAPEST]
 
-*Programme:* Nationally funded  (ITA/UE)
-
-*Years:* 2023–2026
-
-*Role:* Research activities
-
-*Objective*: Development of a complete cultivation/production system for seed and ware potatoes in the Sila area using eco-compatible (direct or indirect) pest management strategies against potato pests. 
-
-*Task objective*: Taxonomic & Field activities & Data analyses
-
-*Context*: Pest control
-
-*FB-Contribution*: Participant
-
-`#taxonomy` `#data-analysis` `#monitoring`
 
 </td>
   </tr>
@@ -197,7 +181,24 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 <table>
   <tr>
     <td width="50%" valign="top">
+      
+### 🐜🏞️🥔  [SILAPEST]
 
+*Programme:* Nationally funded  (ITA/UE)
+
+*Years:* 2023–2026
+
+*Role:* Research activities
+
+*Objective*: Development of a complete cultivation/production system for seed and ware potatoes in the Sila area using eco-compatible (direct or indirect) pest management strategies against potato pests. 
+
+*Task objective*: Taxonomic & Field activities & Data analyses
+
+*Context*: Pest control
+
+*FB-Contribution*: Participant
+
+`#taxonomy` `#data-analysis` `#monitoring`
 
 
 </td>
