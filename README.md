@@ -212,9 +212,9 @@ Francesco Binazzi: Participant
 
 **Role:**   Taxonomic & Field activities & Data analyses
 
-Data and evidence collection in support to the pest specific assessments.
+**Objective**: Data and evidence collection in support to the pest specific assessments.
 
-Pest risk assessment management
+Task objective: Pest risk assessment management
 
 Francesco Binazzi: WP Leader
 
