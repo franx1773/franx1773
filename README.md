@@ -114,7 +114,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </p>
 
 
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -123,7 +122,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 </td>
     <td width="50%" valign="top">
-
 
 
 </td>
@@ -296,7 +294,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
 
-
 </td>
     <td width="50%" valign="top">
 
@@ -333,7 +330,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
   With link:     - **Authors** (Year). *Title.* Outlet, vol(issue), pages. [link](https://doi.org/...)
   Without link:  - **Authors** (Year). *Title.* Report series / Magazine / Outlet.
 -->
-
 
 
 **Peer-reviewed articles - Francesco Binazzi**
