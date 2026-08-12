@@ -275,29 +275,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </table>
 
 
-</td>
-    <td width="50%" valign="top">
-
-### ☘️🌲🐜 [ ]
-
-*Programme:*
-
-*Years:* 
-
-*Role:*  
-
-*Objective:* 
-
-*Context*: Pest control
-
-*FB-Contribution:*
-
-`#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
-
-</td>
-  </tr>
-</table>
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -319,10 +296,9 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
 
+
 </td>
     <td width="50%" valign="top">
-
-
 
 ### ☘️🌲🐜 [ ]
 
