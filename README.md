@@ -121,16 +121,19 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 ### 🍇 [GREEN GRAPES]
 
-*Programme:*  LIFE 
+*Programme:*  LIFE (UE)
 
 *Years:* 2020
 
-*Role:* Researcher / WP contributor
+*Role:* Research activities / WP contributor
 
-New approaches for protection in a modern sustainable viticulture: from nursery to harvesting (EU). 
-In particular, collaborated in the systematic identification of soil microarthropods collected from sites in Tuscany and Cyprus and in the processing of collected data.
+*Objective*: New plant protection approaches in a modern sustainable viticulture: From nursery to harvesting 
 
-Francesco Binazzi: Participant
+*Task objective*: i) Systematic & morphological identification of soil microarthropods collected in Italy (Tuscany) and Cyprus; ii) data analysis 
+
+*Context*: Pest control
+
+*FB-Contribution:* Participant
 
 `#biodiversity` `#agriculture` `#pest-management`
 
@@ -148,7 +151,7 @@ Francesco Binazzi: Participant
 The aim of the project is to identify a complete cultivation/production system, both for seed potatoes and ware potatoes, to be applied in the Sila area using eco-compatible, direct or indirect, pest management strategies against potato pests. 
 
 
-Francesco Binazzi: Participant
+*FB-Contribution*: Participant
 
 `#taxonomy` `#data-analysis` `#monitoring`
 
@@ -162,17 +165,17 @@ Francesco Binazzi: Participant
 
 ### ☘️🌲🐜🪱  [MONI.TOSC]
 
-**Programme:** SFN - Tuscany Region 
+*Programme:* SFN - Tuscany Region 
 
-**Years:** 2022–2026
+*Years:* 2022–2026
 
 **Role:** Researcher / Task leader / Chestnut management
 
-Scientific cooperation agreement for the implementation of joint activities in the the following sectors: Entomology and Nematology on ornamental & forest trees and shrubs.
+*Objective:* Scientific cooperation agreement for the implementation of joint activities in the the following sectors: Entomology and Nematology on ornamental & forest trees and shrubs.
 
 Task objective: *Castanea sativa* monitoring & pest control.
 
-Francesco Binazzi: Task leader
+*FB-Contribution:*: Task leader
 
 `#biodiversity` `#forestry` `#pest-management` `#data-analysis`
 
