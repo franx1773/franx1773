@@ -203,17 +203,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 </td>
     <td width="50%" valign="top">
-
-
-</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-
+      
 ### ☘️🌲🐜 [PRIORITY PESTS]
 
 *Programme:* EU funded (EFSA)
@@ -231,10 +221,15 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
 
-
 </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
 
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
 ### 🍇 [GREEN GRAPES]
 
 *Programme:*  LIFE (UE)
@@ -252,6 +247,13 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 *FB-Contribution:*  WP contributor
 
 `#biodiversity` `#agriculture` `#pest-management`
+
+
+
+
+</td>
+    <td width="50%" valign="top">
+
 
 </td>
   </tr>
