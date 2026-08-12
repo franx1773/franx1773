@@ -191,7 +191,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
       
 ### ☘️🌲🐜 [PRIORITY PESTS]
 
-*Programme:* EU (EFSA-Funded))
+*Programme:* UE (EFSA-Funded))
 
 *Years:* 2023–2024
 
