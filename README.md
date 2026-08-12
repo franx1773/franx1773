@@ -119,23 +119,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
   <tr>
     <td width="50%" valign="top">
 
-### 🍇 [GREEN GRAPES]
 
-*Programme:*  LIFE (UE)
-
-*Years:* 2020
-
-*Role:* Research activities 
-
-*Objective*: New plant protection approaches in a modern sustainable viticulture: From nursery to harvesting 
-
-*Task objective*: i) Systematic & morphological identification of soil microarthropods collected in Italy (Tuscany) and Cyprus; ii) data analysis 
-
-*Context*: Pest control
-
-*FB-Contribution:*  WP contributor
-
-`#biodiversity` `#agriculture` `#pest-management`
 
 </td>
     <td width="50%" valign="top">
@@ -248,7 +232,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
     <td width="50%" valign="top">
 
 
-### ☘️🌲🐜 []
+
 
 ### ☘️🌲🐜 [PRIORITY PESTS]
 
@@ -272,23 +256,25 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </td>
     <td width="50%" valign="top">
 
+### 🍇 [GREEN GRAPES]
 
+*Programme:*  LIFE (UE)
 
-### ☘️🌲🐜 [ ]
+*Years:* 2020
 
-*Programme:*
+*Role:* Research activities 
 
-*Years:* 
+*Objective*: New plant protection approaches in a modern sustainable viticulture: From nursery to harvesting 
 
-*Role:*  
-
-*Objective:* 
+*Task objective*: i) Systematic & morphological identification of soil microarthropods collected in Italy (Tuscany) and Cyprus; ii) data analysis 
 
 *Context*: Pest control
 
-*FB-Contribution:*
+*FB-Contribution:*  WP contributor
 
-`#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
+`#biodiversity` `#agriculture` `#pest-management`
+
+
 
 </td>
   </tr>
