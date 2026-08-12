@@ -288,17 +288,17 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </td>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜 [ ]
+### ☘️🌲🐜 [DI.OL]
 
-*Programme:*
+*Programme:* ITA (MIPAAF)
 
-*Years:* 
+*Years:* 2018 
 
-*Role:*  
+*Role:*  Research activities
 
-*Objective:* 
+*Objective:* Protection from harmful organisms in traditional and intensive olive growing
 
-*Task objective*: Taxonomy & data analysis
+*Task objective*: Taxonomy & Data analysis
 
 *Context*: Pest control
 
@@ -314,21 +314,21 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
   <tr>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜 []
+### ☘️🌲🐜 [MIPP - Life Natura Project]
 
-*Programme:* 
+*Programme:* UE/ITA ((MIPP; EU LIFE project 11 NAT/IT/000252)
 
-*Years:* 
+*Years:* 2014 – 2017
 
-*Role:*   
+*Role:*  Research activities
 
-*Objective:*
+*Objective:*  Monitoring of insects with public participation (MIPP; EU LIFE project 11 NAT/IT/000252): overview on a citizen science initiative and a monitoring program (Insecta: Coleoptera; Lepidoptera; Orthoptera)
 
 *Task objective*: Taxonomy & data analysis
 
 *Context*: Pest control
 
-*Francesco Binazzi:* 
+*Francesco Binazzi:* Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
@@ -336,21 +336,21 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </td>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜 [ ]
+### ☘️🌲🐜 [CE-MiPAAF EUPHRESCO-PEKID – European Union Project]
 
-*Programme:*
+*Programme:* UE
 
-*Years:* 
+*Years:* 2009
 
-*Role:*  
+*Role:*  Research activities
 
-*Objective:* 
+*Objective:* Phytosanitary Efficacy of Kiln Drying', Pilot Call for the topic entitled 'Risk Analysis and efficacy analysis of kiln drying as a phytosanitary treatment of wood and wood products prior to import, as laid down in Directive 2000/29/EC'.
 
-*Task objective*: Taxonomy & data analysis
+*Task objective*: Laboratory trials & Data analysis
 
 *Context*: Pest control
 
-*Francesco Binazzi:*
+*Francesco Binazzi:* Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
