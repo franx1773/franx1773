@@ -206,23 +206,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 
 
-### ☘️🌲🐜 [CO.XI.BO]
 
-**Programme:**  MASAF - DISR 05 
-
-**Years:** 2018
-
-**Role:** Data collection and analysis 
-
-*Objective*: Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
-
-*Task objective*: Taxonomic & Field activities & Data analyses
-
-*Context*: Pest control
-
-*FB-Contribution:* Participant
-
-`#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
 </td>
   </tr>
@@ -250,7 +234,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 *FB-Contribution:* WP leader (comunication)
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
-
 
 
 
@@ -286,19 +269,21 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
   <tr>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜 []
+### ☘️🌲🐜 [CO.XI.BO]
 
-*Programme:* 
+**Programme:**  MASAF - DISR 05 
 
-*Years:* 
+**Years:** 2018
 
-*Role:*   
+**Role:** Data collection and analysis 
 
-*Objective:*
+*Objective*: Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
+
+*Task objective*: Taxonomic & Field activities & Data analyses
 
 *Context*: Pest control
 
-*FB-Contribution:* 
+*FB-Contribution:* Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
