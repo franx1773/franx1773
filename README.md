@@ -249,19 +249,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 `#biodiversity` `#agriculture` `#pest-management`
 
 
-
-
 </td>
-    <td width="50%" valign="top">
-
-
-</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
     <td width="50%" valign="top">
 
 ### ☘️🌲🐜 [CO.XI.BO]
@@ -281,6 +269,17 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 *FB-Contribution:* Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
+
+</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+
 
 
 </td>
