@@ -142,13 +142,15 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 ### 🐜🏞️🥔  [SILAPEST]
 
-*Programme:* Nationally funded 
+*Programme:* Nationally funded  (ITA)
 
 *Years:* 2023–2026
 
 *Role:* Taxonomic & Field activities & Data analyses
 
 Development of a complete cultivation/production system for seed and ware potatoes in the Sila area using eco-compatible (direct or indirect) pest management strategies against potato pests. 
+
+*Task objective*: 
 
 *Context*: Pest control
 
@@ -166,15 +168,15 @@ Development of a complete cultivation/production system for seed and ware potato
 
 ### ☘️🌲🐜🪱  [MONI.TOSC]
 
-*Programme:* SFN - Tuscany Region 
+*Programme:* SFN - Tuscany (Regional funding)
 
 *Years:* 2022–2026
 
-**Role:** Researcher / Task leader / Chestnut management
+*Role:* Researcher / Task leader / Chestnut management
 
 *Objective:* Scientific cooperation agreement for the implementation of joint activities in the the following sectors: Entomology and Nematology on ornamental & forest trees and shrubs.
 
-Task objective: *Castanea sativa* monitoring & pest control.
+*Task objective*: *Castanea sativa* monitoring & pest control.
 
 *Context*: Pest control
 
@@ -236,17 +238,19 @@ Task objective: *Castanea sativa* monitoring & pest control.
 
 ### ☘️🌲🐜 [CO.XI.BO]
 
-**Programme:** Funded by MASAF DISR 05 
+**Programme:**  MASAF - DISR 05 
 
 **Years:** 2018
 
-**Role:**  Taxonomic & Field activities & Data analyses
+**Role:** Data collection and analysis 
 
 Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
 
+*Task objective*: Taxonomic & Field activities & Data analyses
+
 *Context*: Pest control
 
-*FB-Contribution:*
+*FB-Contribution:* Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
