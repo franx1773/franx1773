@@ -214,21 +214,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
   <tr>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜 [PRIORITY PESTS]
-
-*Programme:* EU funded (EFSA)
-
-*Years:* 2023–2024
-
-*Role:* Taxonomic & Field activities & Data analyses
-
-*Objective*: Data and evidence collection in support to pest specific assessments.
-
-*Context*: Pest control
-
-*FB-Contribution:* WP leader (comunication)
-
-`#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
 
 </td>
@@ -265,19 +250,23 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 ### ☘️🌲🐜 []
 
-*Programme:* 
+### ☘️🌲🐜 [PRIORITY PESTS]
 
-*Years:* 
+*Programme:* EU funded (EFSA)
 
-*Role:*   
+*Years:* 2023–2024
 
-*Objective:*
+*Role:* Taxonomic & Field activities & Data analyses
+
+*Objective*: Data and evidence collection in support to pest specific assessments.
 
 *Context*: Pest control
 
-*FB-Contribution:* 
+*FB-Contribution:* WP leader (comunication)
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
+
+
 
 
 </td>
