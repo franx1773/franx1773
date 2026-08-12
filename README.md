@@ -129,7 +129,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Objective:* Scientific cooperation agreement for the implementation of joint activities in the the following sectors: Entomology and Nematology on ornamental & forest trees and shrubs.
 
-*Task objective*: *Castanea sativa* monitoring & pest control.
+*Task objective*: *Castanea sativa* monitoring & Pest control.
 
 *Context*: Pest control
 
@@ -150,7 +150,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Objective*: Cooperation agreement: Strengthening control systems, data collection and development of information systems for plant protection.
 
-*Task objective*: National Emergency plans
+*Task objective*: National Emergency Plans
 
 *Context*: Pest control
 
@@ -302,7 +302,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*Francesco Binazzi:*
+*Francesco Binazzi:* Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
@@ -324,7 +324,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Objective:*  Monitoring of insects with public participation (MIPP; EU LIFE project 11 NAT/IT/000252): overview on a citizen science initiative and a monitoring program (Insecta: Coleoptera; Lepidoptera; Orthoptera)
 
-*Task objective*: Taxonomy & data analysis
+*Task objective*: Taxonomy & Data analysis
 
 *Context*: Pest control
 
