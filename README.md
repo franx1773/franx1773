@@ -238,6 +238,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 </td>
     <td width="50%" valign="top">
+    
 
 ### ☘️🌲🐜 [CO.XI.BO]
 
