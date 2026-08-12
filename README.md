@@ -125,7 +125,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Years:* 2020
 
-*Role:* Research activities / WP contributor
+*Role:* Research activities 
 
 *Objective*: New plant protection approaches in a modern sustainable viticulture: From nursery to harvesting 
 
@@ -133,7 +133,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution:* Participant
+*FB-Contribution:*  WP contributor
 
 `#biodiversity` `#agriculture` `#pest-management`
 
