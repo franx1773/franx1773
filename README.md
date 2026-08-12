@@ -293,10 +293,10 @@ Francesco Binazzi: Participant
   </tr>
 </table>
 
+
 <table>
   <tr>
     <td width="50%" valign="top">
-
 
 ### ☘️🌲🐜 []
 
@@ -310,7 +310,7 @@ Francesco Binazzi: Participant
 
 *Context:* Pest risk assessment management
 
-*Francesco Binazzi - Contribution:* 
+*FB-Contribution:* 
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
@@ -332,7 +332,7 @@ Francesco Binazzi: Participant
 
 *Context:* 
 
-*Francesco Binazzi - Contribution:*
+*FB-Contribution:*
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
@@ -340,6 +340,51 @@ Francesco Binazzi: Participant
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ☘️🌲🐜 []
+
+*Programme:* 
+
+*Years:* 
+
+*Role:*   
+
+*Objective:*
+
+*Context:* Pest risk assessment management
+
+*FB-Contribution:* 
+
+`#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
+
+
+</td>
+    <td width="50%" valign="top">
+
+
+
+### ☘️🌲🐜 [ ]
+
+*Programme:*
+
+*Years:* 
+
+*Role:*  
+
+*Objective:* 
+
+*Context:* 
+
+*FB-Contribution:*
+
+`#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
+
+</td>
+  </tr>
+</table>
 
 🔗 *Pprojects linked to CORDIS pages, official sites & dedicated repositories.*
 
