@@ -133,7 +133,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Context*: Pest control
 
-*FB-Contribution:*: Task leader
+*Francesco Binazzi:* Task leader
 
 `#biodiversity` `#forestry` `#pest-management` `#data-analysis`
 
