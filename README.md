@@ -241,11 +241,11 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 ### ☘️🌲🐜 [CO.XI.BO]
 
-**Programme:**  ITA (MASAF - DISR 05) 
+*Programme:*  ITA (MASAF - DISR 05) 
 
-**Years:** 2018
+*Years:* 2018
 
-**Role:** Research activities
+*Role:* Research activities
 
 *Objective*: Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
 
