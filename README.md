@@ -184,17 +184,19 @@ Task objective: *Castanea sativa* monitoring & pest control.
 
 ### ☘️🌲🐜 [PROTEGGO]
 
-**Programme:** Nationally funded 
+*Programme:* Nationally funded 
 
-**Years:** 2021–2026
+*Years:* 2021–2026
 
-**Role:** Participant & Data analysis & Institutional tasks
+*Role:* Participant & Data analysis & Institutional tasks
 
-Cooperation agreement: Strengthening control systems, data collection and development of information systems for plant protection.
-Pest risk assessment management
+*Objective*: Cooperation agreement: Strengthening control systems, data collection and development of information systems for plant protection.
 
+*Task objective*: National Emergency plans
 
-Francesco Binazzi: Participant
+*Context*: Pest control
+
+*FB-Contribution:* Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
@@ -213,7 +215,7 @@ Francesco Binazzi: Participant
 
 *Years:* 2023–2024
 
-*Role:*   Taxonomic & Field activities & Data analyses
+*Role:* Taxonomic & Field activities & Data analyses
 
 *Objective*: Data and evidence collection in support to the pest specific assessments.
 
