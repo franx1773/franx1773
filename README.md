@@ -266,19 +266,25 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
   <tr>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜 []
+### ☘️🌲🐜 [SALVAOLIVI]
 
-*Programme:* 
+SALVAOLIVI Project  – Scientific research project by direct assignment (Total Project Budget € 2,622,809) funded by MIPAAF with DM 33437 of 21/12/2017, code ob/fu 1.06.05.08.00, expiry 09/01/2021. 
+Project coordiantor: Dr. Francesco Faggioli
 
-*Years:* 
 
-*Role:*   
+*Programme:* ITA (MIPAFF)
 
-*Objective:*
+*Years:* 2018 – 2019
+
+*Role:* Research activities
+
+*Objective:* Study area related to prevention and control strategies for harmful organisms and microorganisms affecting olive tree.
+
+*Task objective*: Taxonomy & data analysis
 
 *Context*: Pest control
 
-*Francesco Binazzi:* 
+*Francesco Binazzi:* Participant
 
 `#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
 
