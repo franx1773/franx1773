@@ -275,17 +275,8 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </table>
 
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-
-
-
 </td>
     <td width="50%" valign="top">
-
-
 
 ### ☘️🌲🐜 [ ]
 
