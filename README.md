@@ -205,9 +205,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
     <td width="50%" valign="top">
 
 
-
-
-
 </td>
   </tr>
 </table>
@@ -215,8 +212,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 <table>
   <tr>
     <td width="50%" valign="top">
-
-
 
 
 ### ☘️🌲🐜 [PRIORITY PESTS]
@@ -257,8 +252,6 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 *FB-Contribution:*  WP contributor
 
 `#biodiversity` `#agriculture` `#pest-management`
-
-
 
 </td>
   </tr>
