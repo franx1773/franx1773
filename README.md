@@ -304,6 +304,51 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ☘️🌲🐜 []
+
+*Programme:* 
+
+*Years:* 
+
+*Role:*   
+
+*Objective:*
+
+*Context*: Pest control
+
+*FB-Contribution:* 
+
+`#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
+
+
+</td>
+    <td width="50%" valign="top">
+
+### ☘️🌲🐜 [ ]
+
+*Programme:*
+
+*Years:* 
+
+*Role:*  
+
+*Objective:* 
+
+*Context*: Pest control
+
+*FB-Contribution:*
+
+`#data-analysis` `#pest reports` `#PRA-Pest Risk Assessment`
+
+</td>
+  </tr>
+</table>
+
+
 🔗 *Pprojects linked to CORDIS pages, official sites & dedicated repositories.*
 
 
