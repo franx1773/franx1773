@@ -220,7 +220,7 @@ Task objective: *Castanea sativa* monitoring & pest control.
 
 *Role:* Taxonomic & Field activities & Data analyses
 
-*Objective*: Data and evidence collection in support to the pest specific assessments.
+*Objective*: Data and evidence collection in support to pest specific assessments.
 
 *Context*: Pest control
 
