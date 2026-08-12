@@ -125,7 +125,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Years:* 2022–2026
 
-*Role:* Researcher / Task leader / Chestnut management
+*Role:* Research / Institutional activities
 
 *Objective:* Scientific cooperation agreement for the implementation of joint activities in the the following sectors: Entomology and Nematology on ornamental & forest trees and shrubs.
 
@@ -146,7 +146,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Years:* 2021–2026
 
-*Role:* Participant & Data analysis & Institutional tasks
+*Role:* Institutional activities
 
 *Objective*: Cooperation agreement: Strengthening control systems, data collection and development of information systems for plant protection.
 
@@ -195,9 +195,11 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Years:* 2023–2024
 
-*Role:* Taxonomic & Field activities & Data analyses
+*Role:* Institutional activities
 
 *Objective*: Data and evidence collection in support to pest specific assessments.
+
+*Task objective:* Taxonomy & Field activities & Data analyses
 
 *Context*: Pest control
 
@@ -243,7 +245,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 **Years:** 2018
 
-**Role:** Data collection and analysis 
+**Role:** Research activities
 
 *Objective*: Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
 
