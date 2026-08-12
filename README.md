@@ -250,15 +250,15 @@ Francesco Binazzi: Participant
   <tr>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜 [PRIORITY PESTS]
+### ☘️🌲🐜 []
 
-**Programme:** EU funded (EFSA)
+**Programme:** 
 
-**Years:** 2023–2024
+**Years:** 
 
-**Role:**   Taxonomic & Field activities & Data analyses
+**Role:**   
 
-Data and evidence collection in support to the pest specific assessments.
+Object
 
 Pest risk assessment management
 
@@ -272,15 +272,15 @@ Francesco Binazzi: WP Leader
 
 
 
-### ☘️🌲🐜 [CO.XI.BO]
+### ☘️🌲🐜 [ ]
 
-**Programme:** Funded by MASAF DISR 05 
+**Programme:** 
 
-**Years:** 2018
+**Years:** 
 
-**Role:**  Taxonomic & Field activities & Data analyses
+**Role:**  
 
-Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
+Onject 
 
 Pest risk assessment management
 
