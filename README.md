@@ -142,15 +142,15 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 ### 🐜🏞️🥔  [SILAPEST]
 
-*Programme:* Nationally funded  (ITA)
+*Programme:* Nationally funded  (ITA/UE)
 
 *Years:* 2023–2026
 
-*Role:* Taxonomic & Field activities & Data analyses
+*Role:* Research activities
 
-Development of a complete cultivation/production system for seed and ware potatoes in the Sila area using eco-compatible (direct or indirect) pest management strategies against potato pests. 
+*Objective*: Development of a complete cultivation/production system for seed and ware potatoes in the Sila area using eco-compatible (direct or indirect) pest management strategies against potato pests. 
 
-*Task objective*: 
+*Task objective*: Taxonomic & Field activities & Data analyses
 
 *Context*: Pest control
 
@@ -244,7 +244,7 @@ Development of a complete cultivation/production system for seed and ware potato
 
 **Role:** Data collection and analysis 
 
-Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
+*Objective*: Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
 
 *Task objective*: Taxonomic & Field activities & Data analyses
 
