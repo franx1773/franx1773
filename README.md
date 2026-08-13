@@ -167,8 +167,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
   <tr>
     <td width="50%" valign="top">
       
-### 🐜🏞️🥔  
-[SILAPEST]
+### 🐜🏞️🥔  [SILAPEST]
 
 *Programme:*  ITA/UE - (Nationally funded)
 
