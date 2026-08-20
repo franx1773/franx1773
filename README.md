@@ -225,7 +225,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Role:* Research activities 
 
-*Objective*: New plant protection approaches in a modern sustainable viticulture: From nursery to harvesting 
+*Objective*: New plant protection approaches in a modern sustainable viticulture: From nursery to harvesting. 
 
 *Task objective*: i) Systematic & morphological identification of soil microarthropods collected in Italy (Tuscany) and Cyprus; ii) data analysis 
 
@@ -297,7 +297,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Role:*  Research activities
 
-*Objective:* Protection from harmful organisms in traditional and intensive olive growing
+*Objective:* Protection from harmful organisms in traditional and intensive olive growing.
 
 *Task objective*: Taxonomy & Data analysis
 
@@ -323,7 +323,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Role:*  Research activities
 
-*Objective:*  Monitoring of insects with public participation (MIPP; EU LIFE project 11 NAT/IT/000252): Overview on a citizen science initiative and a monitoring program (Insecta: Coleoptera; Lepidoptera; Orthoptera)
+*Objective:*  Monitoring of insects with public participation (MIPP; EU LIFE project 11 NAT/IT/000252): Overview on a citizen science initiative and a monitoring program (Insecta: Coleoptera; Lepidoptera; Orthoptera).
 
 *Task objective*: Taxonomy & Data analysis
 
