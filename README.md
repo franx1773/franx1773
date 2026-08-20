@@ -337,7 +337,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </td>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜🌲☘️🌲🐜🌲 [CE-MiPAAF EUPHRESCO-PEKID – UE]
+### ☘️🌲🐜🌲☘️🌲🐜🌲🌲🐜 [CE-MiPAAF EUPHRESCO-PEKID – UE]
 
 *Programme:* UE
 
