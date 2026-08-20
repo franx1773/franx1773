@@ -85,7 +85,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 - 🪲 **`Bark-beetle-monitoring`** — survey data, trap analysis and outbreak risk modelling
 - 🪱 **`Soil-microarthropod-diversity`** — community metrics and biodiversity indices
 - 🔍 **`Eco-data-workflows`** — reproducible Python/R notebooks for ecological datasets
-- 📈 **`Data analysis`** — reproducible Python/R notebooks for ecological datasets
+- 📈 **`Data analysis`** — Statistical modelling with R/Positron
 ---
 
 ## 🔬 Current Projects
