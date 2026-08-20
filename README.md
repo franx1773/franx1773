@@ -315,7 +315,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
   <tr>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜☘️ [MIPP - Life Natura Project]
+### ☘️🌲🐜🐜🌲☘️🌲🐜🌲☘️ [MIPP - Life Natura Project]
 
 *Programme:* UE/ITA ((MIPP; EU LIFE project 11 NAT/IT/000252)
 
@@ -337,7 +337,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </td>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜🌲☘️ [CE-MiPAAF EUPHRESCO-PEKID – UE]
+### ☘️🌲🐜🌲☘️🌲🐜🌲 [CE-MiPAAF EUPHRESCO-PEKID – UE]
 
 *Programme:* UE
 
