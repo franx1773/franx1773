@@ -81,11 +81,11 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 ## 📌 Featured Work
 
 
-- 🐜 **`Aphid-taxonomy-tools`** — scripts and reference data for aphid identification and curation
+- 🐜 **`Aphid-taxonomy-tools`** — aphid identification and collection curation
 - 🪲 **`Bark-beetle-monitoring`** — survey data, trap analysis and outbreak risk modelling
 - 🪱 **`Soil-microarthropod-diversity`** — community metrics and biodiversity indices
 - 🔍 **`Eco-data-workflows`** — reproducible Python/R notebooks for ecological datasets
-- 📈 **`Data analysis`** — Statistical modelling with R/Positron
+- 📈 **`Data analysis`** — statistical modelling with R/Positron
 ---
 
 ## 🔬 Current Projects
