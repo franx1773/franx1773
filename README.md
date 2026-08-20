@@ -275,7 +275,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Role:* Research activities
 
-*Objective:* Study area related to prevention and control strategies for harmful organisms and microorganisms affecting olive tree.
+*Objective:* Prevention and control strategies for harmful organisms and microorganisms affecting olive tree.
 
 *Task objective*: Taxonomy & Data analysis
 
@@ -289,7 +289,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </td>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜 [DI.OL]
+### ☘️🌲🐜☘️🌲 [DI.OL]
 
 *Programme:* ITA (MIPAAF)
 
@@ -315,7 +315,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
   <tr>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜 [MIPP - Life Natura Project]
+### ☘️🌲🐜☘️ [MIPP - Life Natura Project]
 
 *Programme:* UE/ITA ((MIPP; EU LIFE project 11 NAT/IT/000252)
 
@@ -323,11 +323,11 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Role:*  Research activities
 
-*Objective:*  Monitoring of insects with public participation (MIPP; EU LIFE project 11 NAT/IT/000252): overview on a citizen science initiative and a monitoring program (Insecta: Coleoptera; Lepidoptera; Orthoptera)
+*Objective:*  Monitoring of insects with public participation (MIPP; EU LIFE project 11 NAT/IT/000252): Overview on a citizen science initiative and a monitoring program (Insecta: Coleoptera; Lepidoptera; Orthoptera)
 
 *Task objective*: Taxonomy & Data analysis
 
-*Context*: Pest control
+*Context*: Conserveation biology & Ecology
 
 *Francesco Binazzi:* Participant
 
@@ -337,7 +337,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 </td>
     <td width="50%" valign="top">
 
-### ☘️🌲🐜 [CE-MiPAAF EUPHRESCO-PEKID – UE]
+### ☘️🌲🐜🌲☘️ [CE-MiPAAF EUPHRESCO-PEKID – UE]
 
 *Programme:* UE
 
