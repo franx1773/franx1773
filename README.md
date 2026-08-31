@@ -488,11 +488,6 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_
   
 </p>
 
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2d8259/franx1773" alt="franx1773's GitHub Contribution Chart" />
-</p>
-
 ---
 
 ## 🌿 Research Philosophy
