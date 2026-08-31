@@ -488,8 +488,9 @@ https://www.protezionedellepiante.it/wp-content/uploads/2023/11/dtu_n.54_conhne_
   
 </p>
 
+
 <p align="center">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=franx1773&bg_color=262624&color=e8e6dc&line=52b788&point=52b788&hide_border=true&area=true&area_color=52b788" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/52b788/franx1773" alt="franx1773's GitHub Contribution Chart" />
 </p>
 
 
