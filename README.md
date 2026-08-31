@@ -248,7 +248,7 @@ Mindset:     Data analysis, taxonomy, and decisions that help ecosystems
 
 *Role:* Research activities
 
-*Objective*: Contributions for the control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
+*Objective*: Integrated pest control of phytosanitary emergencies caused by *Xylosandrus compactus*, *Xylella fastidiosa*, *Botrytis cinerea*. 
 
 *Task objective*: Taxonomic & Field activities & Data analyses
 
