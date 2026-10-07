@@ -29,7 +29,7 @@ Focus:       Biodiversity · sustainable pest management · data analysis
 Study taxa:  Aphids, bark beetles, soil microarthropods
 Contributes: National emergency plans, EU-funded projects, national projects
 Interests:   Forestry, agriculture, environmental policy, science & humanities
-Mindset:     Taxonomy, and decisions that help ecosystems anf data analysis,
+Mindset:     Taxonomy, ecosystem evaluation and data analysis
 ```
 
 🔬 I study the taxonomy and biodiversity of small but ecologically pivotal organisms — and translate field and lab data into evidence that supports **conservation, plant health, and sustainable management**.
